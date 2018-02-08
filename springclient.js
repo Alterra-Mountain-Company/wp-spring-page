@@ -3069,7 +3069,7 @@ var WinterParkPage = {
     $('.top-hero-copy, .top-hero-video-play-button').hide();
 
     var video = document.createElement('iframe');
-    video.setAttribute('src', '//www.youtube.com/embed/Z6ipKwuwz6Y?enablejsapi=1&autoplay=1&rel=0');
+    video.setAttribute('src', 'https://www.youtube.com/embed/Z6ipKwuwz6Y?enablejsapi=1&autoplay=1&rel=0');
     video.setAttribute('allowfullscreen', 'allowfullscreen'); // width
     video.setAttribute('width', '790'); // width
     video.setAttribute('height', '424'); // height
@@ -3084,7 +3084,7 @@ var WinterParkPage = {
     $('.resource-gallery-video-start').hide();
 
     var video = document.createElement('iframe');
-    video.setAttribute('src', '//www.youtube.com/embed/sCDrPIdWuqc?enablejsapi=1&autoplay=1');
+    video.setAttribute('src', 'https://www.youtube.com/embed/sCDrPIdWuqc?enablejsapi=1&autoplay=1');
     video.setAttribute('allowfullscreen', 'allowfullscreen'); // width
     video.setAttribute('width', '360'); // width
     video.setAttribute('height', '360'); // height

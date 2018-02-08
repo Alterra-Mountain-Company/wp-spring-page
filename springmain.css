@@ -1621,7 +1621,7 @@
       #wp-spring-lp .top-hero-video img {
         display: block; } }
   #wp-spring-lp .top-hero-video-positioner {
-    background: url("//visit.winterparkresort.com.s3.amazonaws.com/landingpageassets/img/spring/family-ski-top-video-bg.jpg") no-repeat top;
+    background: url("https://wpspringpage.netlify.com/img/spring/family-ski-top-video-bg.jpg") no-repeat top;
     background-size: cover;
     height: 424px; }
     @media (max-width: 768px) {
@@ -1715,7 +1715,7 @@
   #wp-spring-lp .top-hero .top-hero-video, #wp-spring-lp .top-hero .top-hero-tile {
     color: #fff; }
   #wp-spring-lp .welcome-banner {
-    background: url("//visit.winterparkresort.com.s3.amazonaws.com/landingpageassets/img/spring/plan-your-spring-break-bg.jpg") center no-repeat;
+    background: url("https://wpspringpage.netlify.com/img/spring/plan-your-spring-break-bg.jpg") center no-repeat;
     background-size: cover;
     min-height: 150px;
     padding-top: 1rem;
@@ -1740,7 +1740,7 @@
     margin: 0 auto;
     max-width: 100%; }
   #wp-spring-lp .to-dos {
-    background: url("//visit.winterparkresort.com.s3.amazonaws.com/landingpageassets/img/spring/spring-splash.jpg") center no-repeat;
+    background: url("https://wpspringpage.netlify.com/img/spring/spring-splash.jpg") center no-repeat;
     background-size: cover;
     color: #fff;
     height: 320px;
@@ -1749,7 +1749,7 @@
     align-items: center; }
     @media (min-width: 768px) {
       #wp-spring-lp .to-dos {
-        background: url("//visit.winterparkresort.com.s3.amazonaws.com/landingpageassets/img/spring/spring-splash.jpg") center no-repeat;
+        background: url("https://wpspringpage.netlify.com/img/spring/spring-splash.jpg") center no-repeat;
         background-size: cover;
         height: 420px;
       }
@@ -1773,7 +1773,7 @@
   #wp-spring-lp .explore-banner {
     color: #fff; }
     #wp-spring-lp .explore-banner .jumbotron {
-      background: url("//visit.winterparkresort.com.s3.amazonaws.com/landingpageassets/img/explore-bg.jpg") center no-repeat;
+      background: url("https://wpspringpage.netlify.com/img/explore-bg.jpg") center no-repeat;
       background-size: cover; }
       @media (min-width: 1200px) {
         #wp-spring-lp .explore-banner .jumbotron {
@@ -1793,7 +1793,7 @@
           #wp-spring-lp .explore-banner-logos img {
             margin: 0 5px 3.5625rem; } }
   #wp-spring-lp .resource-gallery {
-    background: url("//visit.winterparkresort.com.s3.amazonaws.com/landingpageassets/img/spring/plan-your-spring-break-bg1.jpg") center  no-repeat;
+    background: url("https://wpspringpage.netlify.com/img/spring/plan-your-spring-break-bg1.jpg") center  no-repeat;
     color: #fff; }
     #wp-spring-lp .resource-gallery-video-start {
       cursor: pointer; }
