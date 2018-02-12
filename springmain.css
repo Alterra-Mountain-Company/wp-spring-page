@@ -1730,7 +1730,7 @@
   #wp-spring-lp .welcome-banner {
     background: url("https://wpspringpage.netlify.com/img/spring/plan-your-spring-break-bg.jpg") center no-repeat;
     background-size: cover;
-    min-height: 150px;
+    min-height: 400px;
     padding-top: 1rem;
     padding-bottom: 1rem;
     color: #fff;
