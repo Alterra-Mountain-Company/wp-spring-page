@@ -1625,8 +1625,21 @@
     background-size: cover;
     height: 424px; }
     @media (max-width: 768px) {
+      #wp-spring-lp .top-hero-copy {
+        width: 300px;
+        display: block;
+        margin: 0 auto;
+        left: auto;
+        position: relative;
+    }
+    #wp-spring-lp .spring-title {
+      font-size: 1.45rem;
+      margin-bottom: -14px;
+      margin-top: 0;
+      font-family: sans-serif;
+  }
       #wp-spring-lp .top-hero-video-positioner {
-        background-position: 78% 51%;
+        background-position: 31% 51%;
         max-width: 360px;
         margin: 0 auto; } }
   #wp-spring-lp .top-hero-video-start {
