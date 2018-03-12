@@ -1358,10 +1358,7 @@
   #wp-spring-lp .visible-lg-inline-block {
     display: none !important; }
   @media (max-width: 767px) {
-    #wp-spring-lp .get-your-spring-on {
-      font-size: 2rem;
-      letter-spacing: 1px;
-    }
+ 
     #wp-spring-lp .visible-xs {
       display: block !important; }
     #wp-spring-lp table.visible-xs {
@@ -1655,6 +1652,10 @@
         margin: 0 auto;
         left: auto;
         position: relative;
+    }
+    #wp-spring-lp .get-your-spring-on {
+      font-size: 2rem;
+      letter-spacing: 1px;
     }
     #wp-spring-lp .main-title {
       font-size: 3rem;
