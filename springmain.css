@@ -1551,6 +1551,16 @@
   #wp-spring-lp section {
     margin-bottom: 2.25rem;
     margin-top: 2.25rem; }
+    #wp-spring-lp .get-your-spring-on {
+      font-size: 6rem;
+      font-family: 'DIN Condensed Bold', sans-serif;
+      text-transform: uppercase;
+      text-shadow: 0 0 10px #4d4d4d;
+      letter-spacing: 8px;
+      margin-bottom: -15px;}
+      .right-text {
+        text-align: right;
+    }
     @media (min-width: 768px) {
       #wp-spring-lp section {
         margin-bottom: 3.4375rem;
@@ -1571,6 +1581,7 @@
           font-size: 4.7rem;
           font-family: 'DIN Condensed Bold', sans-serif;
           text-transform: uppercase;}
+          
     @media (min-width: 768px) {
       #wp-spring-lp .fma-title {
         font-size: 4.55rem;
@@ -1784,8 +1795,7 @@
       color: #fff;
       height: 31.42vw;
       display: flex;
-      justify-content: center;
-      align-items: center; }
+       }
       #wp-spring-lp .unlimited-spring {
         background: url("https://wpspringpage.netlify.com/img/spring/unlimited-spring-skiing.jpg") center no-repeat;
         background-size: cover;
