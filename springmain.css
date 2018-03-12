@@ -1562,6 +1562,15 @@
       font-size: 1.55rem;
       margin-bottom: -14px;
       font-family: sans-serif;}
+      #wp-spring-lp .main-title {
+        font-size: 4rem;
+        font-family: 'DIN Condensed Bold', sans-serif;
+        text-transform: uppercase;
+        margin-bottom: -15px;}
+        #wp-spring-lp .sub-title {
+          font-size: 4.7rem;
+          font-family: 'DIN Condensed Bold', sans-serif;
+          text-transform: uppercase;}
     @media (min-width: 768px) {
       #wp-spring-lp .fma-title {
         font-size: 4.55rem;
@@ -1607,7 +1616,7 @@
     position: absolute;
     top: 0;
     left: 2rem;
-    width: 320px;
+    width: 420px;
     text-shadow: 1px 0px 6px rgba(0, 0, 0, 0.8); }
     #wp-spring-lp .top-hero-copy .lead {
       text-transform: uppercase; }
@@ -1621,7 +1630,7 @@
       #wp-spring-lp .top-hero-video img {
         display: block; } }
   #wp-spring-lp .top-hero-video-positioner {
-    background: url("https://wpspringpage.netlify.com/img/spring/spring-header.jpg") no-repeat top;
+    background: url("https://wpspringpage.netlify.com/img/spring/spring-hero.jpg") no-repeat top;
     background-size: cover;
     height: 424px; }
     @media (max-width: 768px) {
@@ -1632,6 +1641,14 @@
         left: auto;
         position: relative;
     }
+    #wp-spring-lp .main-title {
+      font-size: 3rem;
+      padding-top: 15px;
+      margin-top: 0;
+  }
+  #wp-spring-lp .sub-title {
+    font-size: 3.5rem;
+  }
     #wp-spring-lp .spring-title {
       font-size: 1.45rem;
       margin-bottom: -14px;
