@@ -1559,6 +1559,14 @@
       text-shadow: 0 0 10px #4d4d4d;
       letter-spacing: 8px;
       margin-bottom: -15px;}
+      #wp-spring-lp .spring-skiing {
+        font-size: 3.25rem;
+    line-height: 2.75rem;
+        font-family: 'DIN Condensed Bold', sans-serif;
+        text-transform: uppercase;
+        text-shadow: 0 0 10px #4d4d4d;
+        letter-spacing: 8px;
+        margin-bottom: -15px;}
       .right-text {
         text-align: right;
     }
@@ -1632,6 +1640,7 @@
     text-shadow: 1px 0px 6px rgba(0, 0, 0, 0.8); }
     #wp-spring-lp .top-hero-copy .lead {
       text-transform: uppercase; }
+      
   @media (min-width: 768px) {
     #wp-spring-lp .top-hero-video {
       padding-right: 0; } }
@@ -1672,6 +1681,11 @@
       margin-top: 0;
       font-family: sans-serif;
   }
+  #wp-spring-lp .spring-skiing{
+  font-size: 1.5rem;
+    line-height: 1rem;
+    letter-spacing: 1px;
+  }
       #wp-spring-lp .top-hero-video-positioner {
         background-position: 31% 51%;
         max-width: 360px;
@@ -1687,6 +1701,7 @@
     margin: auto;
     height: 62px;
     z-index: 1; }
+  }
     @media (min-width: 768px) and (max-width: 992px) {
       #wp-spring-lp .top-hero-video-play-button {
         bottom: 10%; } }
@@ -1807,8 +1822,7 @@
         color: #fff;
         height: 21.9vw;
         display: flex;
-        justify-content: center;
-        align-items: center; }
+         }
 
 
     @media (min-width: 768px) {
